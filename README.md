@@ -46,6 +46,6 @@ Seorang profesional di bidang **IT Network, System, dan Security** dengan pengal
 
 ### 📈 Statistik GitHub
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[username_anda]&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=achmadalifn4&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[username_anda]&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achmadalifn4&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
